@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/**
+ * 郑重声明：本源码均来自互联网，仅供个人欣赏、学习之用，
+ * 版权归36氪产品发行公司所有，任何组织和个人不得公开传播或用于任何商业盈利用途，
+ * 否则一切后果由该组织或个人承担。
+ * 本人不承担任何法律及连带责任！请自觉于下载后24小时内删除
+ *
+ */-->
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="25.0dip" />
+    <gradient android:startColor="#ff2e79f4" android:endColor="#ff83c3ff" />
+</shape>

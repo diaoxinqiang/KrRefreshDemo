@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <in.srain.cube.views.ptr.PtrFrameLayout
+        android:id="@+id/ptr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<ImageView
+    android:id="@+id/iv_test"
+    android:layout_width="match_parent"
+    android:src="@mipmap/ic_launcher"
+    android:scaleType="center"
+    android:layout_height="match_parent"/>
+    </in.srain.cube.views.ptr.PtrFrameLayout>
+
+</android.support.constraint.ConstraintLayout>
